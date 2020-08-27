@@ -1,9 +1,4 @@
-//String name = "Xiaoxiang Liu (Steven)";
-//String netID = "xliu102";
-//String assignment_number = "CSC_172_Project_1"; 
-//String lab_selection_ time = "MW 6:15PM - 7:30PM";
-
-This is a simple 2048 Game. 
+This 2048 is a command line game.
 
 1) When getting started, You should expect the conditions below:
              
@@ -187,7 +182,3 @@ You pressed A. Invalid.
      ––––– ––––– ––––– –––––
 
 You pressed XXXXX. Invalid.
-
-9) Everything else is done according to the rule of 2048.
-
-10) Thank you for your time!
