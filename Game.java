@@ -1,8 +1,3 @@
-//String name = "Xiaoxiang Liu (Steven)";
-//String netID = "xliu102";
-//String assignment_number = "CSC_172_Lab_2"; 
-//String lab_selection_ time = "MW 6:15PM - 7:30PM";
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

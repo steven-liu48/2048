@@ -1,4 +1,4 @@
-This 2048 is a command line game.
+This 2048 lives on command lines.
 
 1) When getting started, You should expect the conditions below:
              
